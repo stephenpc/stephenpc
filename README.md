@@ -13,9 +13,10 @@ If you're reading this, it means I finally spent a few minutes figuring out how 
 * [My "Facebook 🥱 for work" (LinkedIn)](https://www.linkedin.com/in/stephenclayton) ~ _No offense to anyone at MSFT... but its Facebook with work vibes._
 
 ### I Filled in the Template
-_...as of the week of 17 January 2022_
+_...as of the week of 7 March 2022_
 
-- 🌱 I’m currently learning `how to subway tile a kitchen backsplash`.
+- 🌱 I’m currently learning `how to prolong the life of indoor plants`.
+  -  ~~`how to subway tile a kitchen backsplash`~~
 - 👯 I’m looking to collaborate on `interesting projects that aim to advance social equity`.
 - 🤔 I’m looking for help with `an IS38 turbo swap on a 1.8T EA888.3 engine`.
 - 🔭 I’m currently working on `becoming a harder-better-faster-stronger` version of myself... sometimes with the [Daft Punk](https://en.wikipedia.org/wiki/Daft_Punk) song playing in the background.
