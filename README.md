@@ -15,7 +15,8 @@ If you're reading this, it means I finally spent a few minutes figuring out how 
 ### I Filled in the Template
 _...as of the week of 12 June 2023_
 
-- 🌱 I’m continually learning `how to prolong the life of indoor plants`. _My Monstera recently grew a new leaf!_
+- 🌱 I’m continually learning: 
+  - `how to prolong the life of indoor plants`. _My Monstera recently grew a new leaf!_
   -  ~~`how to subway tile a kitchen backsplash`~~
 - 👯 I’m looking to collaborate on `interesting projects that aim to advance social equity`.
 - ~~🤔 I’m looking for help with `an IS38 turbo swap on a 1.8T EA888.3 engine`.~~ _This was a painful project but the result, very rewarding 😈..._
