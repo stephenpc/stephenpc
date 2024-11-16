@@ -6,17 +6,18 @@ If you're reading this, it means I finally spent a few minutes figuring out how 
 
 #### If you're bored...
 
-* [10+ years of 🎧 scrobbles to Last.fm](https://www.last.fm/user/stephenpc) ~ _Maybe we're musical neighbors_
+* [15+ years of 🎧 scrobbles to Last.fm](https://www.last.fm/user/stephenpc) ~ _Maybe we're musical neighbors_
 
 #### If you're interested in hiring me to write code that automates software development pipelines or virtual/cloud infrastructure, tell corny jokes, and bombard engineering chat rooms with animated GIFs...
 
-* [My "Facebook 🥱 for work" (LinkedIn)](https://www.linkedin.com/in/stephenclayton) ~ _No offense to anyone at MSFT... but its Facebook with work vibes._
+* [Obligatory social media for work (LinkedIn)](https://www.linkedin.com/in/stephenclayton) ~ _No offense to anyone at MSFT... but its Facebook with work vibes._
 
-### I Filled in the Template
+### From the Template...
 _...as of the week of 12 June 2023_
 
 - 🌱 I’m continually learning: 
   - `how to prolong the life of indoor plants`. _My Monstera recently grew a new leaf!_
+  - `plant propagation`. _Now, I'm running out of space for indoor plants._
   -  ~~`how to subway tile a kitchen backsplash`~~
 - 👯 I’m looking to collaborate on `interesting projects that aim to advance social equity`.
 - ~~🤔 I’m looking for help with `an IS38 turbo swap on a 1.8T EA888.3 engine`.~~ _This was a painful project but the result, very rewarding 😈..._
